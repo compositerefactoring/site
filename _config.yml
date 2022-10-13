@@ -19,6 +19,7 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Composite Refactoring
+description: This website contains complementary data to the paper.
 domain: "compositerefactoring.github.io"
 url: "https://compositerefactoring.github.io/" # the subpath of your site, e.g. /blog
 baseurl: "/site/" # the base hostname & protocol for your site, e.g. http://example.com
