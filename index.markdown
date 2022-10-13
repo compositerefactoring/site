@@ -10,7 +10,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat ante, element
 
 | #      | Artifact | Description |
 | ----------- | ----------- | ----------- |
-| 1      | [Information of Software Projects]() | General information about the software projects that were investigated in this study. |
+| 1      | [Information of Software Projects](https://github.com/compositerefactoring/site/raw/main/downloads/general-data-per-project.xlsx) | General information about the software projects that were investigated in this study. |
 
 # Authors
 
