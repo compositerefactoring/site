@@ -4,13 +4,18 @@ layout: default
 
 # Abstract
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras erat ante, elementum et rhoncus in, sodales eget neque. Aliquam libero nisl, tempor sit amet neque eget, rutrum ultricies elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Curabitur commodo blandit orci non euismod. Donec efficitur ligula scelerisque odio imperdiet, aliquam rhoncus erat porttitor. Praesent euismod aliquam massa, at facilisis elit hendrerit vitae. Praesent suscipit malesuada suscipit. Nunc bibendum lorem ac diam iaculis, nec egestas sem tempor. Vivamus in urna fermentum, egestas nunc et, viverra nulla. Cras laoreet, purus sit amet molestie viverra, diam elit lobortis velit, ut lacinia odio ligula consectetur mauris. Morbi a lectus arcu. In hac habitasse platea dictumst. Suspendisse dignissim nisl id consequat ultrices. Proin rhoncus tellus ac turpis mollis dictum. Etiam quis iaculis massa, at faucibus metus. In eu volutpat velit.
+Refactoring is a non-trivial maintenance activity. Developers spend time and effort refactoring code to remove structural problems, i.e., code smells. Recent studies indicated that developers often apply *composite refactoring* (composite, for short), i.e., two or more interrelated refactorings. However, previous studies revealed that only 10% of composite refactorings are considered *complete*, i.e., those fully removing code smells. Many of the incomplete refactorings end up even introducing or replacing smells, which have to be further removed later in the project. However, developers are missing catalogs that guide them to fully refactor code smells out, alerting them about possible side effects of alternative composite recommendations. To fill this gap, we performed a mixed-matched study to create an enhanced catalog of complete composites derived from their recurring application across software projects. The derived catalog includes empirically-observed side effects for each alternative composite and proposes refactoring combinations to fully remove more than one code smell, minimizing those side effects. The recommendations were extracted from 42 software projects, both open and closed-source, with more than 250K refactorings. Then, our catalog recommendations were evaluated by nine software developers. The evaluation indicates that 78% of developers reported that their solutions could have worse side effects without our recommendations, increasing the effort to remove smells critical to them. Thus, our catalog can guide both developers and researchers on how to better combine refactorings in composites that effectively reduce side effects in the practice. 
 
 # Artifacts
 
 | #      | Artifact | Description |
 | ----------- | ----------- | ----------- |
 | 1      | [Information of Software Projects](https://github.com/compositerefactoring/site/raw/main/downloads/general-data-per-project.xlsx) | General information about the software projects that were investigated in this study. |
+| 2      | [Refactorings](https://drive.google.com/drive/folders/1Bdaho1Vs4qDnwnu1CDW22meqw4F6JqyO?usp=sharing) | All Refactorings collected in this study. |
+| 3      | [Composite Refactorings](https://drive.google.com/drive/folders/1pNI2LYNANySKazd3rSV_U9RRWrlq0trG?usp=sharing) | All Composite Refactorings collected in this study. |
+| 4      | [Complete Composite Refactorings](https://drive.google.com/drive/folders/15Kx0cx2g3Qxl6FmT7CHhgQXcL2DMVvWL?usp=sharing) | All Complete Composite Refactorings collected in this study. |
+| 5      | [Most Common Combinations of Composites](https://drive.google.com/drive/folders/1u3X0cYBeBXFnlo0XQaBfeO0LGz8RoxBE?usp=sharing) | Most common combinations of Composite Refactorings collected in this study. |
+| 6      | [Side Effects per Composite Combination](https://drive.google.com/drive/folders/11GxQOSV_sZHRazXVfsOA_bn-jkUqpVMH?usp=sharing) |(Side) Effects of Combinations of Complete Composites investigated in this study. |
 
 # Authors
 
@@ -18,5 +23,11 @@ Any questions and/or suggestions should be sent to the paper authors as follows.
 
 | #      | Name | E-mail |
 | ----------- | ----------- | ----------- |
-| 1 | Bob | bob@email.com |
-| 2 | Alice | alice@email.com | 
+| 1 | Ana Carla Bibiano | abibiano@inf.puc-rio.br |
+| 2 | Anderson Uchôa | andersonguchoa@gmail.com | 
+| 3 | Wesley K. G. Assunção | wesleyklewerton@gmail.com | 
+| 4 | Rafael de Mello | rafaelmello@ic.ufrj.br |
+| 5 | Daniel Coutinho | dcoutinho@inf.puc-rio.br |
+| 6 | Thelma E. Colanzi | thelma@din.uem.br |
+| 7 | Daniel Oliveira | doliveira@inf.puc-rio.br |
+| 8 | Alessandro Garcia | afgarcia@inf.puc-rio.br |
