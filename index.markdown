@@ -16,6 +16,8 @@ Refactoring is a non-trivial maintenance activity. Developers spend time and eff
 | 4      | [Complete Composite Refactorings](https://drive.google.com/drive/folders/15Kx0cx2g3Qxl6FmT7CHhgQXcL2DMVvWL?usp=sharing) | All Complete Composite Refactorings collected in this study. |
 | 5      | [Most Common Combinations of Composites](https://drive.google.com/drive/folders/1u3X0cYBeBXFnlo0XQaBfeO0LGz8RoxBE?usp=sharing) | Most common combinations of Composite Refactorings collected in this study. |
 | 6      | [Side Effects per Composite Combination](https://drive.google.com/drive/folders/11GxQOSV_sZHRazXVfsOA_bn-jkUqpVMH?usp=sharing) |(Side) Effects of Combinations of Complete Composites investigated in this study. |
+| 7      | [Code Smells](https://1drv.ms/u/s!AuaYEGY-_fTJrt4y8mFO6d6A0MnQzg?e=AEqnSt) | All code smells collected in this study. |
+| 8      | Interview Transcriptions | The artifacts from the interviews are being revised in order to ensure anonymity and will be available here soon. |
 
 # Authors
 
