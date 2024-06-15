@@ -18,3 +18,4 @@ Refactoring is a non-trivial maintenance activity. Developers spend time and eff
 | 6      | [Side Effects per Composite Combination](https://drive.google.com/drive/folders/11GxQOSV_sZHRazXVfsOA_bn-jkUqpVMH?usp=sharing) |(Side) Effects of Combinations of Complete Composites investigated in this study. |
 | 7      | [Interviews - Answers](https://docs.google.com/spreadsheets/d/1HPZH1xXrIFjvKNiEFoMq4c_5jDBSBa9s/edit?usp=sharing&ouid=112357502681826466479&rtpof=true&sd=true) | The questions, answers and summarization of our interviews. |
 | 8      | [Interviews - Sample Code](https://drive.google.com/drive/folders/1NXPfASIfng0LD4nmbHnrMcS1C_uxWbG6?usp=sharing) | The smelly code that was presented for subjects |
+| 9      | [Full Paper Version](https://drive.google.com/file/d/1ksb2BiM171yWZf7oJ1qLcj9cPAXoI0IL/view?usp=sharing) | Full paper version with complementary information |
